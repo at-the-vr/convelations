@@ -3,11 +3,13 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://convelations.vercel.app/',
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Convelations',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/at-the-vr',
+				'x.com': 'https://x.com/at_the_vr',
 			},
 			sidebar: [
 				{
