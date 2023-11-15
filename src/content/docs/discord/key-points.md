@@ -1,6 +1,10 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Key Points
+head:
+  - tag: title
+    content: Key Points
+description: Some important points that I abide by or follow throughout my Workflow
+lastUpdated: 2023-11-15
 ---
 
 Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.

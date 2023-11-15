@@ -1,5 +1,8 @@
 ---
-title: Greetings
+title: Convelations
+head:
+  - tag: title
+    content: Convelations
 description: Read what I have been learning around Astro Community
 template: splash
 hero:
@@ -8,7 +11,7 @@ hero:
     file: ../../assets/hero-image.webp
   actions:
     - text: Check here
-      link: /guides/example/
+      link: /discord/key-points/
       icon: right-arrow
       variant: primary
     - text: View on GitHub
@@ -21,16 +24,16 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 ## Next steps
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="Discord" icon="discord">
+		See what I learnt while conversing with Discord Peeps
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="GitHub" icon="github">
+		See what I learnt while engaging with GitHub Issues and PRs
 	</Card>
-	<Card title="Configure your site" icon="setting">
+	{/* <Card title="Configure your site" icon="setting">
 		Edit your `sidebar` and other config in `astro.config.mjs`.
 	</Card>
 	<Card title="Read the docs" icon="open-book">
 		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
+	</Card> */}
 </CardGrid>
