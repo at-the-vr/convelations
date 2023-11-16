@@ -40,7 +40,7 @@ export default defineConfig({
 			items: [
 				// Each item here is one entry in the navigation menu.
 				{
-					label: 'Key Points',
+					label: 'Key Points around Discord',
 					link: '/discord/key-points/'
 				}]
 		}, {

@@ -1,15 +1,24 @@
 ---
-title: Key Points
+title: Key Points around GitHub
 head:
   - tag: title
-    content: Key Points
+    content: Key Points around GitHub
 description: Some important points that I abide by or follow throughout my Workflow
 lastUpdated: 2023-11-15
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.
+## What I uphold
 
-## Further reading
+1. **Using GitHub Issues and GitHub Discussions**
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+    Found an Issue in a GitHub Project? Raise it (_Minblowing I know_). Found a
+    cool feature to integrate? Issues is your place. There are times when
+    Maintainers will ask you to move the conversation to GitHub Discussions and
+    that's good since that allows other maintainers to share their solutions.
+
+2. **What after Hacktoberfest**
+
+    I have been active during Hacktoberfest since last year but this year, I found
+    a community where I can learn and contribute to their repos. I understood what
+    their Goals are and found an excitement for their projects and how my contributions
+    tend to solve their Issues.
