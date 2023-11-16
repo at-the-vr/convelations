@@ -1,8 +1,8 @@
 ---
-title: GitHub
+title: Key Points
 head:
   - tag: title
-    content: Key Points
+    content: GitHub
 description: Some important points that I abide by or follow throughout my Workflow
 lastUpdated: 2023-11-15t21:59:43.10+05:30
 ---
