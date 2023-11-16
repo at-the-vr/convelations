@@ -4,7 +4,7 @@ head:
   - tag: title
     content: Key Points around Discord
 description: Some important points that I abide by or follow throughout my Workflow
-lastUpdated: 2023-11-15
+lastUpdated: 2023-11-16t22:58:43.10+05:30
 ---
 
 Discord is my most used Application.

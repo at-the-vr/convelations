@@ -4,7 +4,7 @@ head:
   - tag: title
     content: Key Points around GitHub
 description: Some important points that I abide by or follow throughout my Workflow
-lastUpdated: 2023-11-15
+lastUpdated: 2023-11-16t22:58:43.10+05:30
 ---
 
 ## What I uphold
@@ -20,5 +20,6 @@ lastUpdated: 2023-11-15
 
     I have been active during Hacktoberfest since last year but this year, I found
     a community where I can learn and contribute to their repos. I understood what
-    their Goals are and found an excitement for their projects and how my contributions
-    tend to solve their Issues.
+    their Goals are and found an excitement for their projects. Now my contributions
+    tend to solve their Issues & my subjective feedback brings a different perspective
+    to their PRs.
