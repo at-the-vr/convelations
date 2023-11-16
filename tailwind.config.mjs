@@ -1,3 +1,4 @@
+/** @type {import('tailwindcss').Config} */
 import starlightPlugin from '@astrojs/starlight-tailwind';
 
 // Generated color palettes
@@ -11,12 +12,10 @@ export default {
 		extend: {
 			colors: { accent, gray },
 		},
-	},
-	fontFamily: {
+		fontFamily: {
 				// Your preferred text font. Starlight uses a system font stack by default.
-				sans: ['Inter'],
-				// Your preferred code font. Starlight uses system monospace fonts by default.
-				mono: ['"IBM Plex Mono"'],
+				sans: ['"Inter", "serif"'],
 			},
+	},
 	plugins: [starlightPlugin()],
 };

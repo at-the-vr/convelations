@@ -1,16 +1,17 @@
 ---
-title: Key Points
+title: Discord
 head:
   - tag: title
     content: Key Points
 description: Some important points that I abide by or follow throughout my Workflow
-lastUpdated: 2023-11-15
+lastUpdated: 2023-11-15t22:59:43.10+05:30
 ---
 
 Discord is my most used Application.
 
 [Astro Lounge](https://discord.gg/astrodotbuild) is where I get to know stuff
-about Astro alongside [**Astro Docs**](https://docs.astro.build/).
+about Astro alongside [**Astro Docs**](https://docs.astro.build/) &
+[**Starlight Docs**](https://starlight.astro.build/).
 
 ## What I hold
 
@@ -24,9 +25,9 @@ about Astro alongside [**Astro Docs**](https://docs.astro.build/).
 2. **Use dedicated channel and/or a thread for your Discussions.**
 
    _#general_ is certainly not the place to ask for reviewing your PRs, pushing
-   down large code snippets & asking for diagnosis but, incase there's a need then
+   down large code snippets & asking for diagnosis _but_, incase there's a need then
    Discord allows users to create [Threads](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ#h_01F99Z9HJEBXXK8JJ45SZAE0FC) in order to reduce the
-   _wall of text_ effect and the thread can be _referred_ by new members as well
+   _wall of text_ effect and the thread can be referred by new members as well
    for similar queries.
 
 3. **Acquaintance with Discord Markdown**
