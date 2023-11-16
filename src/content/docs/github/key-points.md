@@ -1,5 +1,5 @@
 ---
-title: Key Points
+title: Key Points around GitHub
 head:
   - tag: title
     content: GitHub

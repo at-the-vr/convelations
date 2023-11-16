@@ -1,5 +1,5 @@
 ---
-title: Key Points
+title: Key Points around Discord
 head:
   - tag: title
     content: Discord
