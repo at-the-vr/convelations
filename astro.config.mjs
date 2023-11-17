@@ -41,7 +41,8 @@ export default defineConfig({
 				// Each item here is one entry in the navigation menu.
 				{
 					label: 'Key Points',
-					link: '/discord/key-points/'
+					link: '/discord/key-points/',
+					badge: { text: 'New', variant: 'note' },
 				}]
 		}, {
 			label: 'GitHub',
