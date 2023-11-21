@@ -4,7 +4,7 @@ head:
   - tag: title
     content: Key Points around Discord
 description: Some important points that I abide by or follow throughout my Workflow
-lastUpdated: 2023-11-20t15:46:40.10+05:30
+lastUpdated: 2023-11-21t23:32:40.10+05:30
 ---
 
 Discord is my most used Application.
@@ -19,7 +19,7 @@ about Astro alongside [**Astro Docs**](https://docs.astro.build/) &
 
    Instead of pursuing maintainers for diagnosing your issues verbally, have them
    at least know about your queries in the form of text messages. That ensures an
-   asynchronous procedure and presents opportunities for other Maintainers & Developers
+   asynchronous procedure and presents opportunities for other Maintainers & developers
    to chime in as well.
 
 2. **Use a dedicated channel and/or a thread for your Discussions.**

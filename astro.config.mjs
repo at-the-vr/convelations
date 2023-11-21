@@ -46,6 +46,11 @@ export default defineConfig({
 							link: '/discord/key-points/',
 							badge: { text: 'New', variant: 'tip' },
 						},
+						{
+							label: 'First Steps',
+							link: '/discord/first-steps/',
+							badge: { text: 'New', variant: 'tip' },
+						},
 					],
 				},
 				{

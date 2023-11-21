@@ -4,7 +4,7 @@ head:
   - tag: title
     content: Key Points around GitHub
 description: Some important points that I abide by or follow throughout my Workflow
-lastUpdated: 2023-11-20t15:46:40.10+05:30
+lastUpdated: 2023-11-21t23:32:40.10+05:30
 sidebar:
   badge:
     text: New
@@ -35,4 +35,4 @@ sidebar:
    with reviews & new commits. Say, I am translating a page in my language of choice:
    I can precisely commit my changes and spend way too much time & effort on that Issue
    only for it to find some errors by the maintainers `or` I can rapidly translate,
-   commit/push & create a PR and have it reviewed and updated.
+   commit/push, create a PR, have it reviewed and updated.
