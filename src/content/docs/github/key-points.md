@@ -5,10 +5,6 @@ head:
     content: Key Points around GitHub
 description: Some important points that I abide by or follow throughout my Workflow
 lastUpdated: 2023-11-21t23:32:40.10+05:30
-sidebar:
-  badge:
-    text: New
-    variant: tip
 ---
 
 ## What I uphold
