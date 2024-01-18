@@ -53,9 +53,16 @@ export default defineConfig({
         },
         {
           label: 'GitHub',
-          autogenerate: {
-            directory: 'github',
-          },
+          items: [
+            {
+              label: 'Key Points around GitHub',
+              link: '/github/key-points/',
+            },
+            {
+              label: 'First Steps',
+              link: '/github/first-steps/',
+            },
+          ],
         },
       ],
     }),
