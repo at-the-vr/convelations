@@ -49,6 +49,10 @@ export default defineConfig({
               label: 'First Steps',
               link: '/discord/first-steps/',
             },
+            {
+              label: 'Support Guy',
+              link: '/discord/support-guy/',
+            },
           ],
         },
         {
