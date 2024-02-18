@@ -29,6 +29,9 @@ export default defineConfig({
           },
         },
       ],
+      components:{
+        Head: './src/components/Head.astro',
+      },
       customCss: [
         // Path to your Tailwind base styles:
         './src/tailwind.css',
