@@ -4,7 +4,7 @@ head:
   - tag: title
     content: Key Points around Discord
 description: Some important points that I abide by or follow throughout my Workflow
-lastUpdated: 2023-12-05t12:05:30.10+05:30
+lastUpdated: 2024-02-20t11:43:30.10+05:30
 ---
 
 Discord is my most used Application.
@@ -15,11 +15,11 @@ Discord is my most used Application.
 
 1. **Ask and type your queries instead of begging maintainers for a quick 1 on 1.**
 
-   Instead of pursuing maintainers for diagnosing your issues verbally, have them at least know about your queries in the form of text messages. That ensures an asynchronous procedure and presents opportunities for other Maintainers & developers to chime in as well.
+   Instead of pursuing maintainers for diagnosing your issues via call, have them at least know about your queries in the form of text messages. That ensures an asynchronous procedure and presents opportunities for other Maintainers & developers to chime in as well.
 
 2. **Use a dedicated channel and/or a thread for your Discussions.**
 
-   _#general_ is certainly not the place to ask for reviewing your PRs, pushing down large code snippets & getting them diagnosed but, in case there's a need Discord allows users to create [Threads](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ#h_01F99Z9HJEBXXK8JJ45SZAE0FC) to reduce the _wall of text_ effect and the thread can later be _referred_ by new members as well for similar queries.
+   _#general_ is certainly not the place to ask for reviewing your PRs, pushing down large code snippets & getting them diagnosed but, in case there's a need Discord allows users to create [Threads](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ#h_01F99Z9HJEBXXK8JJ45SZAE0FC) to reduce the _wall of text_ effect and the thread can be referred later by new members as well for similar queries.
 
 3. **Acquaintance with Discord Markdown**
 
