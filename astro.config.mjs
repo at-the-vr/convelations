@@ -9,6 +9,17 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Convelations',
+      defaultLocale: 'root',
+      locales: {
+        root: {
+          label: 'English',
+          lang: 'en'
+        },
+        'hi': {
+          label: 'हिंदी',
+          lang: 'hi'
+        }
+      },
       head: [
         {
           tag: 'link',
