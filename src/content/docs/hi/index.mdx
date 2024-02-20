@@ -1,0 +1,39 @@
+---
+title: Convelations
+head:
+  - tag: title
+    content: Convelations
+description: पढ़िए कि मैं Astro समुदाय के आसपास क्या सीख रहा हूं
+template: splash
+hero:
+  tagline: पढ़िए कि मैं Astro समुदाय के आसपास क्या सीख रहा हूं
+  image:
+    file: ../../../assets/hero-image.webp
+  actions:
+    - text: यहा जांचिये
+      link: /hi/discord/key-points/
+      icon: right-arrow
+      variant: primary
+    - text: GitHub पर देखें
+      link: https://github.com/at-the-vr/convelations
+      icon: external
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Next steps
+
+<CardGrid>
+	<Card title="Discord" icon="discord">
+		[Discord में लोगो](/hi/discord/key-points/) से बातचीत के दौरान मैंने क्या सीखा
+    </Card>
+	<Card title="GitHub" icon="github">
+		[GitHub Issues और PRs](/hi/github/key-points/) में सकर्मक क्रिया के दौरान मैंने क्या सीखा
+	</Card>
+</CardGrid>
+
+<footer style={{display:'flex', justifyContent:'center', alignItems: 'center'}}>
+
+[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/small.svg)](https://starlight.astro.build)
+
+</footer>
