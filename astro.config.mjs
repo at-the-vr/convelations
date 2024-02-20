@@ -37,7 +37,7 @@ export default defineConfig({
         './src/tailwind.css',
       ],
       social: {
-        'x.com': 'https://x.com/at_the_vr',
+        github: 'https://github.com/at-the-vr/convelations'
       },
       sidebar: [
         {
