@@ -4,7 +4,7 @@ head:
   - tag: title
     content: Key Points around GitHub
 description: Some important points that I abide by or follow throughout my Workflow
-lastUpdated: 2023-12-05t12:05:30.10+05:30
+lastUpdated: 2024-02-20t12:09:30.10+05:30
 ---
 
 ## What I uphold
@@ -19,4 +19,4 @@ lastUpdated: 2023-12-05t12:05:30.10+05:30
 
 3. **Anxiety around Pull Requests**
 
-   I used to assume my PRs would be immediately reviewed & merged. That led to inevitable delays in delivery. The key thing about PRs is that they can be improved with reviews & new commits. Say, I am translating a page in my language of choice: I can precisely commit my changes and spend way too much time & effort on that Issue only for it to find some errors by the maintainers `or` I can rapidly translate, commit/push, create a PR, have it reviewed and updated while continuing my own work.
+   I used to assume my PRs would be immediately reviewed & merged. That led to inevitable delays in delivery. The key thing about PRs is that they can be improved with reviews & new commits. Say, I am translating a page in my language of choice: I can precisely commit my changes and spend way too much time & effort on that single page only for it to find some errors by the maintainers `or` I can rapidly translate, commit/push, create a PR, have it reviewed and updated while continuing my own work.
