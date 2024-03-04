@@ -4,12 +4,12 @@ head:
   - tag: title
     content: Key Points around Discord
 description: Some important points that I abide by or follow throughout my Workflow
-lastUpdated: 2024-02-20t11:43:30.10+05:30
+lastUpdated: 2024-03-04t19:37:30.10+05:30
 ---
 
-Discord is my most used Application.
+[Astro Lounge](https://discord.gg/astrodotbuild) is where I get to know stuff about Astro alongside [**Astro Docs**](https://docs.astro.build/) & [**Starlight**](https://starlight.astro.build/).
 
-[Astro Lounge](https://discord.gg/astrodotbuild) is where I get to know stuff about Astro alongside [**Astro Docs**](https://docs.astro.build/) & [**Starlight Docs**](https://starlight.astro.build/).
+This is a section that emcompasses my _oopsies_ during my initial months in Astro Lounge and how I tend to not repeat them:
 
 ## What I uphold
 
