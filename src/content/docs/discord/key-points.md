@@ -3,6 +3,8 @@ title: Key Points around Discord
 head:
   - tag: title
     content: Key Points around Discord
+sidebar:
+   order: 1
 description: Some important points that I abide by or follow throughout my Workflow
 lastUpdated: 2024-03-04t19:37:30.10+05:30
 ---

@@ -53,21 +53,7 @@ export default defineConfig({
       sidebar: [
         {
           label: 'Discord',
-          items: [
-            // Each item here is one entry in the navigation menu.
-            {
-              label: 'Key Points around Discord',
-              link: '/discord/key-points/',
-            },
-            {
-              label: 'First Steps',
-              link: '/discord/first-steps/',
-            },
-            {
-              label: 'Support Guy',
-              link: '/discord/support-guy/',
-            },
-          ],
+          autogenerate: { directory: 'discord' },
         },
         {
           label: 'GitHub',
